@@ -1,17 +1,8 @@
 package problems;
 
+import problems.AddTwoNumbers_2.ListNode;
+
 public class RemoveNthNodeFromEndofList_19 {
-
-    static class ListNode {
-
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
-
     //my solution
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if (head == null) {
@@ -45,12 +36,12 @@ public class RemoveNthNodeFromEndofList_19 {
         ListNode head = new ListNode(1);
         ListNode temp = head;
         head.next = new ListNode(2);
-//        head = head.next;
-//        head.next = new ListNode(3);
-//        head = head.next;
-//        head.next = new ListNode(4);
-//        head = head.next;
-//        head.next = new ListNode(5);
+        head = head.next;
+        head.next = new ListNode(3);
+        head = head.next;
+        head.next = new ListNode(4);
+        head = head.next;
+        head.next = new ListNode(5);
 
         System.out.println(new RemoveNthNodeFromEndofList_19().removeNthFromEnd(temp, 2));
     }

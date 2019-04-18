@@ -1,16 +1,9 @@
 package problems;
 
+import problems.AddTwoNumbers_2.ListNode;
+
 public class MergeTwoSortedLists_21 {
 
-    public static class ListNode {
-
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
     //my solution
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1==null)return l2;

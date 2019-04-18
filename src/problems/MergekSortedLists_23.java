@@ -1,14 +1,10 @@
 package problems;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.PriorityQueue;
-import problems.MergeTwoSortedLists_21.ListNode;
+import problems.AddTwoNumbers_2.ListNode;
 
 public class MergekSortedLists_23 {
 
@@ -96,16 +92,13 @@ public class MergekSortedLists_23 {
     public ListNode mergeKLists(List<ListNode> lists) {
         if (lists==null||lists.size()==0) return null;
 
-        PriorityQueue<ListNode> queue= new PriorityQueue<>(lists.size(),new Comparator<ListNode>(){
-            @Override
-            public int compare(ListNode o1,ListNode o2){
-                if (o1.val<o2.val)
-                    return -1;
-                else if (o1.val==o2.val)
-                    return 0;
-                else
-                    return 1;
-            }
+        PriorityQueue<ListNode> queue= new PriorityQueue<>(lists.size(), (o1, o2) -> {
+            if (o1.val<o2.val)
+                return -1;
+            else if (o1.val==o2.val)
+                return 0;
+            else
+                return 1;
         });
 
         ListNode dummy = new ListNode(0);
@@ -123,35 +116,5 @@ public class MergekSortedLists_23 {
                 queue.add(tail.next);
         }
         return dummy.next;
-    }
-
-    public static void main(String[] args) {
-
-        Collection a =new ArrayList();
-        a.add(16);
-        a.add(15);
-        a.add(14);
-        a.add(3);
-        a.add(2);
-        a.add(1);
-        PriorityQueue<Integer> b =new PriorityQueue<>(a);
-        b.add(10);
-        b.add(-3);
-        b.add(30);
-        ListNode l1 = new ListNode(1);
-        l1.next = new ListNode(2);
-        l1.next.next = new ListNode(4);
-        ListNode l2 = new ListNode(1);
-        l2.next = new ListNode(3);
-        l2.next.next = new ListNode(4);
-        ListNode l3 = new ListNode(1);
-        l3.next = new ListNode(3);
-        l3.next.next = new ListNode(7);
-
-        System.out.println(new MergekSortedLists_23().mergeKLists4(new ListNode[]{l1, l2, l3}));
-    }
-
-    static class PriorityQueue2<E> extends PriorityQueue<E>{
-
     }
 }
