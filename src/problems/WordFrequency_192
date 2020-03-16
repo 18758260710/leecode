@@ -1,0 +1,12 @@
+//统计文件词频，降序打印
+for word in $(cat words.txt); do echo $word; done | sort | uniq -c | sort -r | awk '{ print $2 " "$1}'
+先将文本一行一词打印，然后计数 然后排序 最后打印
+
+uniq -c 会按顺序计数  a a a b b 为 3 a 2 b 而 a b a b a 为 1 a 1 b 1 a 1 b 1 a 所以之前要sort
+awk 打印 $n 对应每行第n个数据
+sort -r 降序
+
+
+cat words.txt | tr -cs "[a-z]" "\n" | sort | uniq -c | sort -r |awk '{print $2,$1}'
+也是先将非字母替换为换行
+tr -c 会将非字母转换为换行 连续空格会保留 -cs 将连续空格过滤掉 剩余相同 更快

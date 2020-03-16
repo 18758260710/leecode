@@ -1,0 +1,5 @@
+//文件读取相关
+//文件每列变成行输出
+awk '{for(i=0;++i<=NF;)a[i]=a[i]?a[i] FS $i:$i}END{for(i=0;i++<NF;)print a[i]}' words.txt
+
+//$i代表文件中的第i列   NF为列数  另外NR为行数  FS为分隔符 " " 首位直接加上，否则先加FS然后加数据
