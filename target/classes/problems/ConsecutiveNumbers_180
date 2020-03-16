@@ -1,0 +1,28 @@
+SELECT DISTINCT(a.Num) as ConsecutiveNums from Logs a left join Logs b on a.Id = b.Id-1 left join Logs c on a.Id = c.Id-2 where a.Num=b.Num and a.Num=c.Num
+-->my solution
+
+SELECT DISTINCT
+    l1.Num AS ConsecutiveNums
+FROM
+    Logs l1,
+    Logs l2,
+    Logs l3
+WHERE
+    l1.Id = l2.Id - 1
+    AND l2.Id = l3.Id - 1
+    AND l1.Num = l2.Num
+    AND l2.Num = l3.Num
+;
+-->official solution 不用join了
+
+-->上面的方法必须要Id连续
+select DISTINCT num consecutivenums FROM
+(select num,
+	case
+		when @record = num then @count:=@count+1
+		when @record <> @record:=num then @count:=1 end as n
+    from
+	    Logs ,(select @count:=0,@record:=NULL) r
+) a
+where a.n>=3
+-->计数的方法
