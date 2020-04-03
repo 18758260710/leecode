@@ -33,11 +33,11 @@ public class ConstructBinaryTreefromInorderandPostorderTraversal_106 {
 
     public static void main(String[] args) {
         TreeNode a = new ConstructBinaryTreefromInorderandPostorderTraversal_106()
-            .buildTree2(new int[]{9, 3, 15, 20, 7}, new int[]{9, 15, 7, 20, 3});
+            .buildTree3(new int[]{2,0,1,4,2,3,2},new int[]{2,1,0,2,4,3,2});
         System.out.println(a);
     }
 
-    //my solution2 suing stack
+    //my solution2 using stack
     public TreeNode buildTree2(int[] inorder, int[] postorder) {
         if (postorder == null || postorder.length == 0 ||
             inorder == null || inorder.length == 0) {
