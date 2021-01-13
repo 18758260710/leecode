@@ -1,7 +1,7 @@
 package problems;
 
 
-import problems.BinaryTreeInorderTraversal_94.TreeNode;
+import problems.P94_BinaryTreeInorderTraversal.TreeNode;
 
 public class MinimumDepthofBinaryTree_111 {
     //0ms

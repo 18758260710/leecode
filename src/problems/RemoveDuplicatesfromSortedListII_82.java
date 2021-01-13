@@ -1,6 +1,6 @@
 package problems;
 
-import problems.AddTwoNumbers_2.ListNode;
+import problems.P2_AddTwoNumbers.ListNode;
 
 public class RemoveDuplicatesfromSortedListII_82 {
     //my solution1 0ms 原list上动

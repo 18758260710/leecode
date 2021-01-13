@@ -2,7 +2,7 @@ package problems;
 
 import java.util.ArrayList;
 import java.util.List;
-import problems.BinaryTreeInorderTraversal_94.TreeNode;
+import problems.P94_BinaryTreeInorderTraversal.TreeNode;
 
 public class UniqueBinarySearchTreesII_95 {
     //my solution1 1ms

@@ -1,6 +1,6 @@
 package problems;
 
-import problems.AddTwoNumbers_2.ListNode;
+import problems.P2_AddTwoNumbers.ListNode;
 
 public class ReorderList_143 {
     //my solution1 1ms

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
-import problems.AddTwoNumbers_2.ListNode;
+import problems.P2_AddTwoNumbers.ListNode;
 
 public class MergekSortedLists_23 {
 

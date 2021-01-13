@@ -1,6 +1,6 @@
 package problems;
 
-import problems.AddTwoNumbers_2.ListNode;
+import problems.P2_AddTwoNumbers.ListNode;
 
 /**
  * Created by Administrator on 2020/1/9.

@@ -23,12 +23,11 @@ public class JsonPath {
         List<Long> ids2 = (List<Long>) JSONPath.eval(object2,"$..item_id");
         System.out.println(ids2);
         List<Long> ids3 = new ArrayList<>();
-        try {
-            //列表
-            ids3 = (List<Long>) JSONPath.eval(object3,"$.item_id");
-        }catch (Exception e){
-            //单个
-            ids3.add(Long.valueOf(JSONPath.eval(object3,"$.item_id").toString()));
+        Object evalResult = JSONPath.eval(object3, "$.item_idaa");
+        if (evalResult instanceof List) {
+            ids3 = (List<Long>) evalResult;
+        }else if (evalResult instanceof Integer){
+            ids3.add(Long.valueOf(evalResult.toString()));
         }
         System.out.println(ids3);
     }

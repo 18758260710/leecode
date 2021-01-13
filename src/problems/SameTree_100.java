@@ -1,7 +1,7 @@
 package problems;
 
 import java.util.ArrayDeque;
-import problems.BinaryTreeInorderTraversal_94.TreeNode;
+import problems.P94_BinaryTreeInorderTraversal.TreeNode;
 
 public class SameTree_100 {
 
