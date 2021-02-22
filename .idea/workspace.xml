@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="1.14commit">
-      <change afterPath="$PROJECT_DIR$/src/problems/P330_PatchingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/P331_VerifyPreorderSerializationofaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/P332_ReconstructItinerary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/P334_IncreasingTripletSubsequence.java" afterDir="false" />
+    <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="2.20commit">
+      <change afterPath="$PROJECT_DIR$/src/problems/P335_SelfCrossing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/P334_IncreasingTripletSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/P334_IncreasingTripletSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/problems/P112_PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/P112_PathSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -476,7 +474,7 @@
       <workItem from="1610591200061" duration="4520000" />
       <workItem from="1610939398421" duration="476000" />
       <workItem from="1610955961948" duration="18124000" />
-      <workItem from="1611305806722" duration="11847000" />
+      <workItem from="1611305806722" duration="15689000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1555170024182</created>
@@ -527,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611632394466</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2.20commit">
+      <created>1613785461891</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613785461891</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -570,17 +575,22 @@
     <MESSAGE value="1.13commit" />
     <MESSAGE value="4.3commit" />
     <MESSAGE value="1.14commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.14commit" />
+    <MESSAGE value="2.20commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.20commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1613976564331">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1613976564331" />
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610531248639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610531248639" />
-    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2" timestamp="1613785406378">
+    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2" timestamp="1613979257141">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1613785406378" />
+    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1613979257141" />
     <state x="144" y="78" key="DiffContextDialog" timestamp="1611632363846">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -649,10 +659,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="521" y="375" key="ReplaceDuplicatesPrompt/0.0.1440.900@0.0.1440.900" timestamp="1611134184032" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1613612342681">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1613785465467">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1613612342681" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1613785465467" />
     <state x="458" y="210" width="542" height="484" key="extract.method.dialog" timestamp="1611214094170">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
