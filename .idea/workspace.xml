@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="ALL" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="1.14commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leecode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leecode.iml" afterDir="false" />
+    <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="3.2commit">
+      <change afterPath="$PROJECT_DIR$/src/problems/P347_TopKFrequentElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,14 +33,21 @@
       </map>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZNpCd1gYWb4FVoNrvrNnnYvGIp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -55,7 +58,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.P112_PathSum">
+  <component name="RunManager" selected="Application.P343_IntegerBreak">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -110,61 +113,6 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorDevice" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="clearAppDataOnEachLaunch" value="true" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -228,8 +176,8 @@
       <setting name="rowsRange" value="" />
       <method />
     </configuration>
-    <configuration name="P105_ConstructBinaryTreefromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.P105_ConstructBinaryTreefromPreorderandInorderTraversal" />
+    <configuration name="P330_PatchingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.P330_PatchingArray" />
       <module name="leecode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -242,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P112_PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.P112_PathSum" />
+    <configuration name="P332_ReconstructItinerary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.P332_ReconstructItinerary" />
       <module name="leecode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -256,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P238_OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.P238_OddEvenLinkedList" />
+    <configuration name="P343_IntegerBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.P343_IntegerBreak" />
       <module name="leecode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -270,27 +218,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P327_CountofRangeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.P327_CountofRangeSum" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <module name="leecode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P329_LongestIncreasingPathinaMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.P329_LongestIncreasingPathinaMatrix" />
-      <module name="leecode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problems.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,6 +234,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.aaa" />
+      <module name="leecode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -332,6 +280,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -350,7 +353,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -413,15 +416,14 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P112_PathSum" />
-        <item itemvalue="Application.P105_ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item itemvalue="Application.P329_LongestIncreasingPathinaMatrix" />
-        <item itemvalue="Application.P238_OddEvenLinkedList" />
-        <item itemvalue="Application.P327_CountofRangeSum" />
+        <item itemvalue="Application.P343_IntegerBreak" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.aaa" />
+        <item itemvalue="Application.P332_ReconstructItinerary" />
+        <item itemvalue="Application.P330_PatchingArray" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -470,8 +472,10 @@
       <workItem from="1610591200061" duration="4520000" />
       <workItem from="1610939398421" duration="476000" />
       <workItem from="1610955961948" duration="18124000" />
-      <workItem from="1611305806722" duration="2348000" />
-      <workItem from="1613741432133" duration="2108000" />
+      <workItem from="1611305806722" duration="21961000" />
+      <workItem from="1614072466913" duration="5451000" />
+      <workItem from="1614330154213" duration="8487000" />
+      <workItem from="1614667215928" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1555170024182</created>
@@ -515,7 +519,42 @@
       <option name="project" value="LOCAL" />
       <updated>1610531840856</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.14commit">
+      <created>1611632394466</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611632394466</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2.20commit">
+      <created>1613785461891</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613785461891</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2.22commit">
+      <created>1613979285121</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613979285121</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2.27commit">
+      <created>1614412971133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614412971133</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3.2commit">
+      <created>1614667237782</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614667237782</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -528,19 +567,20 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -557,98 +597,108 @@
     <MESSAGE value="1.13commit" />
     <MESSAGE value="4.3commit" />
     <MESSAGE value="1.14commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.14commit" />
+    <MESSAGE value="2.20commit" />
+    <MESSAGE value="2.22commit" />
+    <MESSAGE value="2.27commit" />
+    <MESSAGE value="3.2commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.2commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1614330232833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614330232833" />
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610531248639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610531248639" />
-    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2" timestamp="1610531840429">
+    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2" timestamp="1614667237357">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610531840429" />
-    <state x="144" y="78" key="DiffContextDialog" timestamp="1604574376738">
+    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614667237357" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1613989500083" />
+    <state x="144" y="78" key="DiffContextDialog" timestamp="1614667232210">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1604574376738" />
-    <state width="1398" height="249" key="GridCell.Tab.0.bottom" timestamp="1611632205565">
+    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614667232210" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom" timestamp="1614562517202">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632205565" />
-    <state width="1398" height="484" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611135145319" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517202" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614258261510" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352209" />
     <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1606647173066" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868422" />
-    <state width="1398" height="249" key="GridCell.Tab.0.center" timestamp="1611632205562">
+    <state width="1398" height="160" key="GridCell.Tab.0.center" timestamp="1614562517200">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632205562" />
-    <state width="1398" height="484" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611135145317" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517200" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614258261508" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352202" />
     <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1606647173065" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868421" />
-    <state width="1398" height="249" key="GridCell.Tab.0.left" timestamp="1611632205561">
+    <state width="1398" height="160" key="GridCell.Tab.0.left" timestamp="1614562517199">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632205561" />
-    <state width="1398" height="484" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611135145316" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517199" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614258261500" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352199" />
     <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1606647173062" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868420" />
-    <state width="1398" height="249" key="GridCell.Tab.0.right" timestamp="1611632205563">
+    <state width="1398" height="160" key="GridCell.Tab.0.right" timestamp="1614562517201">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632205563" />
-    <state width="1398" height="484" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611135145318" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517201" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614258261509" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352206" />
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1606647173065" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868421" />
-    <state width="1398" height="287" key="GridCell.Tab.1.bottom" timestamp="1611632169900">
+    <state width="1398" height="160" key="GridCell.Tab.1.bottom" timestamp="1614562517205">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632169900" />
-    <state width="1398" height="484" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611135145443" />
+    <state width="1398" height="160" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517205" />
+    <state width="1398" height="284" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614258261697" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352223" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868424" />
-    <state width="1398" height="287" key="GridCell.Tab.1.center" timestamp="1611632169898">
+    <state width="1398" height="160" key="GridCell.Tab.1.center" timestamp="1614562517204">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632169898" />
-    <state width="1398" height="484" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1611135145442" />
+    <state width="1398" height="160" key="GridCell.Tab.1.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517204" />
+    <state width="1398" height="284" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1614258261694" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352217" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868423" />
-    <state width="1398" height="287" key="GridCell.Tab.1.left" timestamp="1611632169897">
+    <state width="1398" height="160" key="GridCell.Tab.1.left" timestamp="1614562517203">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632169897" />
-    <state width="1398" height="484" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1611135145441" />
+    <state width="1398" height="160" key="GridCell.Tab.1.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517203" />
+    <state width="1398" height="284" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1614258261692" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352212" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868422" />
-    <state width="1398" height="287" key="GridCell.Tab.1.right" timestamp="1611632169899">
+    <state width="1398" height="160" key="GridCell.Tab.1.right" timestamp="1614562517205">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="287" key="GridCell.Tab.1.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611632169899" />
-    <state width="1398" height="484" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1611135145443" />
+    <state width="1398" height="160" key="GridCell.Tab.1.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517205" />
+    <state width="1398" height="284" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1614258261696" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352220" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868424" />
     <state x="521" y="375" key="ReplaceDuplicatesPrompt" timestamp="1611134184032">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="521" y="375" key="ReplaceDuplicatesPrompt/0.0.1440.900@0.0.1440.900" timestamp="1611134184032" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610531844009">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614738437746">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610531844009" />
-    <state x="458" y="210" width="542" height="484" key="extract.method.dialog" timestamp="1611214094170">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614738437746" />
+    <state x="458" y="210" width="542" height="484" key="extract.method.dialog" timestamp="1614412796292">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="210" key="extract.method.dialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1611214094170" />
+    <state x="458" y="210" key="extract.method.dialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614412796292" />
     <state x="458" y="210" width="542" height="484" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1611134180600" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1610449628042">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614066348103">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610449628042" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1614066348103" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,6 +857,16 @@
           <url>file://$PROJECT_DIR$/src/problems/P105_ConstructBinaryTreefromPreorderandInorderTraversal.java</url>
           <line>66</line>
           <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/P330_PatchingArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/P332_ReconstructItinerary.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
