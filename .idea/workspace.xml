@@ -1,314 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="1.14commit">
-      <change afterPath="$PROJECT_DIR$/src/problems/P238_OddEvenLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/P327_CountofRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/P329_LongestIncreasingPathinaMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leecode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leecode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/P112_PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/P112_PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddBinary_67.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddDigits_258.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddTwoNumbers_2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddTwoNumbers_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddandSearchWordDatastructuredesign_211$WordDictionary$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddandSearchWordDatastructuredesign_211$WordDictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AddandSearchWordDatastructuredesign_211.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AllOoneDataStructure_432$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/AllOoneDataStructure_432.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BalancedBinaryTree_110.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BasicCalculatorII_227.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BasicCalculator_224.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BestTimetoBuyandSellStockIII_123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BestTimetoBuyandSellStockII_122.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BestTimetoBuyandSellStockIV_188.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BestTimetoBuyandSellStock_121.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinarySearchTreeIterator_173.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeInorderTraversal_94$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeInorderTraversal_94.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeLevelOrderTraversalII_107.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeLevelOrderTraversal_102.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeMaximumPathSum_124.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreePaths_257.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreePostorderTraversal_145.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreePreorderTraversal_144.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeRightSideView_199.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BinaryTreeZigzagLevelOrderTraversal_103.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/BitwiseAndOfNumbersRange_201.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Candy_135.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ClimbingStairs_70.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CloneGraph_133$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CloneGraph_133.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CombinationSumIII_216.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CombinationSumII_40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CombinationSum_39.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Combinations_77.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CombineTwoTables_175.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CompareVersionNumbers_165.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ConsecutiveNumbers_180" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ConstructBinaryTreefromInorderandPostorderTraversal_106.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ConstructBinaryTreefromPreorderandInorderTraversal_105.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ContainerWithMostWater_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ContainsDuplicateIII_220.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ContainsDuplicateII_219.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ContainsDuplicate_217.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ConvertSortedArraytoBinarySearchTree_108.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ConvertSortedListtoBinarySearchTree_109.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CopyListwithRandomPointer_138$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CopyListwithRandomPointer_138.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CountCompleteTreeNodes_222.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CountPrimes_204.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CountandSay_38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CourseScheduleII_210.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CourseSchedule_207.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/CustomersWhoNeverOrder_183" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DecodeWays_91.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DeleteDuplicateEmails_196" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DeleteNodeinaLinkedList_237.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DepartmentHighestSalary_184" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DepartmentTopThreeSalaries_185" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DifferentWaystoAddParentheses_241.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DistinctSubsequences_115.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DivideTwoIntegers_29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DungeonGame_174.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/DuplicateEmails_182" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/EditDistance_72.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/EmployeesEarningMoreThanTheirManagers_181" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/EvaluateReversePolishNotation_150.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ExcelSheetColumnNumber_171.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ExcelSheetColumnTitle_168.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ExpressionAddOperators_282.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FactorialTrailingZeroes_172.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FindFirstandLastPositionofElementinSortedArray_34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FindMinimuminRotatedSortedArrayII_154.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FindMinimuminRotatedSortedArray_153.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FindPeakElement_162.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FindtheDuplicateNumber_287.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FirstBadVersion_278.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FirstMissingPositive_41.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FlattenBinaryTreetoLinkedList_114.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FourSum_18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FractiontoRecurringDecimal_166.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/FriendCircles_547.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/GameofLife_289.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/GasStation_134.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/GenerateParentheses_22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/GrayCode_89.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/GroupAnagrams_49.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/HIndexII_275.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/HIndex_274.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/HappyNumber_202.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/HouseRobberII_213.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/HouseRobber_198.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementQueueusingStacks_232$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementQueueusingStacks_232$MyQueue2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementQueueusingStacks_232.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementStackusingQueues_225$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementStackusingQueues_225$MyStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementStackusingQueues_225.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementStrStr_28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementTriePrefixTree_208$Trie$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementTriePrefixTree_208$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementTriePrefixTree_208$Trie2$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementTriePrefixTree_208$Trie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ImplementTriePrefixTree_208.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Index.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/Index.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/InsertInterval_57.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/InsertionSortList_147.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/IntegertoEnglishWords_273.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/IntegertoRoman_12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/InterleavingString_97.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/IntersectionofTwoLinkedLists_160.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/InvertBinaryTree_226.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/IsomorphicStrings_205.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/JumpGameII_45.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/JumpGame_55.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/KthLargestElementinanArray_215.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/KthSmallestElementinaBST_230$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/KthSmallestElementinaBST_230.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LFUCache_460$LFUCache$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LFUCache_460$LFUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LFUCache_460$LFUCache2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LFUCache_460$LFUCache2$NodeQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LFUCache_460$LFUCache2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LFUCache_460.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LRUCache_146$LRU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LRUCache_146.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LargestRectangleinHistogram_84.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LemonadeChange_860.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LengthofLastWord_58.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LetterCombinationsofaPhoneNumber_17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LinkedListCycleII_142.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LinkedListCycle_141.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestCommonPrefix_14$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestCommonPrefix_14$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestCommonPrefix_14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestConsecutiveSequence_128.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestContinuousIncreasingSubsequence_674.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestIncreasingSubsequence_300.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestPalindromicSubstring_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestSubstringWithoutRepeatingCharacters_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestValidParentheses_32$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LongestValidParentheses_32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LowestCommonAncestorofaBinarySearchTree_235.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/LowestCommonAncestorofaBinaryTree_236.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MajorityElementII_229.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MajorityElement_169.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaxAreaofIsland_695.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaxPointsonaLine_149.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaximalRectangle_85.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaximalSquare_221.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaximumDepthofBinaryTree_104.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaximumGap_164.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaximumProductSubarray_152.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MaximumSubarray_53.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MedianofTwoSortedArrays_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MergeIntervals_56$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MergeIntervals_56$IntervalComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MergeIntervals_56.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MergeSortedArray_88.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MergeTwoSortedLists_21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MergekSortedLists_23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MiddleoftheLinkedList_876.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MinStack_155$StackNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MinStack_155.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MinimumDepthofBinaryTree_111.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MinimumPathSum_64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MinimumSizeSubarraySum_209.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MinimumWindowSubstring_76.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MissingNumber_268.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MoveZeroes_283.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/MultiplyStrings_43.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NQueensII_52.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NQueens_51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NextGreaterElementII_503.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NextPermutation_31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NimGame_292.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NthHighestSalary_177" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Numberof1Bits_191.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NumberofDigitOne_233.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NumberofIslands_200$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/NumberofIslands_200.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PalindromeLinkedList_234.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PalindromeNumber_9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PalindromePartitioningII_132.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PalindromePartitioning_131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PartitionList_86.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PascalsTriangleII_119.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PascalsTriangle_118.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PathSumII_113.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PathSum_112.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PeekingIterator_284$PeekingIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PeekingIterator_284.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PerfectSquares_279.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PermutationSequence_60.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PermutationinString_567.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PermutationsII_47.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Permutations_46.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PlusOne_66.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PopulatingNextRightPointersinEachNodeII_117.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PopulatingNextRightPointersinEachNode_116$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PopulatingNextRightPointersinEachNode_116.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PowXN_50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/PowerofTwo_231.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ProductofArrayExceptSelf_238.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RankScores_178" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RectangleArea_223.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RegularExpressionMatching_10$Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RegularExpressionMatching_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveDuplicatesfromSortedArrayII_80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveDuplicatesfromSortedArray_26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveDuplicatesfromSortedListII_82.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveDuplicatesfromSortedList_83.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveElement_27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveLinkedListElements_203.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RemoveNthNodeFromEndofList_19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReorderList_143.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RepeatedDNASequences_187.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RestoreIPAddresses_93.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReverseBits_190.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReverseInteger_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReverseLinkedListII_92.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReverseLinkedList_206.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReverseNodesink_Group_25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ReverseWordsinaString_151.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RisingTemperature_197.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RomantoInteger_13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RotateArray_189.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RotateImage_48.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RotateList_61.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/RussianDollEnvelopes_354.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SameTree_100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ScrambleString_87.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SearchInsertPosition_35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Searcha2DMatrixII_240.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Searcha2DMatrix_74.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SearchinRotatedSortedArrayII_81.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SearchinRotatedSortedArray_33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SecondHighestSalary_176.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SetMatrixZeroes_73.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ShortestPalindrome_214.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SimplifyPath_71.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SingleNumberIII_260.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SingleNumberII_137.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SingleNumber_136.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SlidingWindowMaximum_239.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SortColors_75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SortList_148.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SpiralMatrixII_59.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SpiralMatrix_54.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SqrtX_69.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/StringtoIntegerAtoi_8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SubsetsII_89.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Subsets_78.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SubstringwithConcatenationofAllWords_30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SudokuSolver_37.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SumRoottoLeafNumbers_129.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SummaryRanges_228.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SurroundedRegions_130.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SwapNodesinPairs_24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/SymmetricTree_101.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TenthLine_195" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TextJustification_68.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TheSkylineProblem_218$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TheSkylineProblem_218$Building.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TheSkylineProblem_218$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TheSkylineProblem_218.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ThreeSumClosest_16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ThreeSum_15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TransposeFile_194" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TrappingRainWater_42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/Triangle_120.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TripsandUsers_262.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TwoSumIIInputarrayissorted_167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/TwoSum_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UTF8Validation_393.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UglyNumberII_264.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UglyNumber_263.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UniqueBinarySearchTreesII_95.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UniqueBinarySearchTrees_96.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UniquePathsII_63.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/UniquePaths_62.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidAnagram_242.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidNumber_65.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidPalindrome_125.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidParentheses_20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidPhoneNumbers_193" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidSudoku_36.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ValidateBinarySearchTree_98.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WildcardMatching_44.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordBreakII_140.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordBreak_139.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordFrequency_192" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordLadderII_126.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordLadder_127.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordPattern_290.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordSearchII_212$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordSearchII_212$TrieTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordSearchII_212.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/WordSearch_79.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problems/ZigZagConversion_6.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,21 +37,14 @@
       </map>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZNpCd1gYWb4FVoNrvrNnnYvGIp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -418,6 +110,61 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -585,61 +332,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorDevice" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="clearAppDataOnEachLaunch" value="true" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -658,7 +350,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -729,6 +421,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -778,6 +471,7 @@
       <workItem from="1610939398421" duration="476000" />
       <workItem from="1610955961948" duration="18124000" />
       <workItem from="1611305806722" duration="2348000" />
+      <workItem from="1613741432133" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1555170024182</created>
@@ -834,20 +528,19 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
