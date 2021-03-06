@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="3.2commit">
-      <change afterPath="$PROJECT_DIR$/src/problems/P347_TopKFrequentElements.java" afterDir="false" />
+    <list default="true" id="9c591fa5-c7ff-446a-b9e0-16ba2af49499" name="Default" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/problems/P349_IntersectionofTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/P76_MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/P76_MinimumWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/problems/P76_MinimumWindowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/problems/P76_MinimumWindowSubstring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +38,18 @@
       </map>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1ZNpCd1gYWb4FVoNrvrNnnYvGIp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -113,6 +118,61 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -280,61 +340,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorDevice" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="clearAppDataOnEachLaunch" value="true" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -353,7 +358,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -574,13 +579,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -602,103 +606,6 @@
     <MESSAGE value="2.27commit" />
     <MESSAGE value="3.2commit" />
     <option name="LAST_COMMIT_MESSAGE" value="3.2commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1614330232833">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614330232833" />
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610531248639">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610531248639" />
-    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2" timestamp="1614667237357">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="23" width="1440" height="793" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614667237357" />
-    <state x="0" y="23" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1613989500083" />
-    <state x="144" y="78" key="DiffContextDialog" timestamp="1614667232210">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="144" y="78" key="DiffContextDialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614667232210" />
-    <state width="1398" height="160" key="GridCell.Tab.0.bottom" timestamp="1614562517202">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517202" />
-    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614258261510" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352209" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1606647173066" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868422" />
-    <state width="1398" height="160" key="GridCell.Tab.0.center" timestamp="1614562517200">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517200" />
-    <state width="1398" height="284" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614258261508" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352202" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1606647173065" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868421" />
-    <state width="1398" height="160" key="GridCell.Tab.0.left" timestamp="1614562517199">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517199" />
-    <state width="1398" height="284" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614258261500" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352199" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1606647173062" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868420" />
-    <state width="1398" height="160" key="GridCell.Tab.0.right" timestamp="1614562517201">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517201" />
-    <state width="1398" height="284" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614258261509" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352206" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1606647173065" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868421" />
-    <state width="1398" height="160" key="GridCell.Tab.1.bottom" timestamp="1614562517205">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517205" />
-    <state width="1398" height="284" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614258261697" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352223" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868424" />
-    <state width="1398" height="160" key="GridCell.Tab.1.center" timestamp="1614562517204">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.1.center/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517204" />
-    <state width="1398" height="284" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1614258261694" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352217" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868423" />
-    <state width="1398" height="160" key="GridCell.Tab.1.left" timestamp="1614562517203">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.1.left/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517203" />
-    <state width="1398" height="284" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1614258261692" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352212" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868422" />
-    <state width="1398" height="160" key="GridCell.Tab.1.right" timestamp="1614562517205">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="160" key="GridCell.Tab.1.right/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614562517205" />
-    <state width="1398" height="284" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1614258261696" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.793/-1920.0.1920.1080@0.23.1440.793" timestamp="1610939352220" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.877/-1920.0.1920.1080@0.23.1440.877" timestamp="1610180868424" />
-    <state x="521" y="375" key="ReplaceDuplicatesPrompt" timestamp="1611134184032">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="521" y="375" key="ReplaceDuplicatesPrompt/0.0.1440.900@0.0.1440.900" timestamp="1611134184032" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614738437746">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614738437746" />
-    <state x="458" y="210" width="542" height="484" key="extract.method.dialog" timestamp="1614412796292">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="458" y="210" key="extract.method.dialog/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1614412796292" />
-    <state x="458" y="210" width="542" height="484" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1611134180600" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1614066348103">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@0.0.1440.900" timestamp="1610449628042" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1614066348103" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
